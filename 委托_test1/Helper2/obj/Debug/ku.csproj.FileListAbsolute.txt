@@ -1,0 +1,5 @@
+C:\Users\Administrator\source\repos\委托_test1\Helper2\bin\Debug\Helper2.dll
+C:\Users\Administrator\source\repos\委托_test1\Helper2\bin\Debug\Helper2.pdb
+C:\Users\Administrator\source\repos\委托_test1\Helper2\obj\Debug\ku.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\委托_test1\Helper2\obj\Debug\Helper2.dll
+C:\Users\Administrator\source\repos\委托_test1\Helper2\obj\Debug\Helper2.pdb

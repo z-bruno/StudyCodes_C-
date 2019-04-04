@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\BackgroundWorker_进度条\BackgroundWorker_进度条\bin\Debug\BackgroundWorker_test2.exe.config
+C:\Users\Administrator\source\repos\BackgroundWorker_进度条\BackgroundWorker_进度条\bin\Debug\BackgroundWorker_test2.exe
+C:\Users\Administrator\source\repos\BackgroundWorker_进度条\BackgroundWorker_进度条\bin\Debug\BackgroundWorker_test2.pdb
+C:\Users\Administrator\source\repos\BackgroundWorker_进度条\BackgroundWorker_进度条\obj\Debug\BackgroundWorker_test2.Form1.resources
+C:\Users\Administrator\source\repos\BackgroundWorker_进度条\BackgroundWorker_进度条\obj\Debug\BackgroundWorker_test2.Properties.Resources.resources
+C:\Users\Administrator\source\repos\BackgroundWorker_进度条\BackgroundWorker_进度条\obj\Debug\BackgroundWorker_进度条.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\BackgroundWorker_进度条\BackgroundWorker_进度条\obj\Debug\BackgroundWorker_进度条.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\BackgroundWorker_进度条\BackgroundWorker_进度条\obj\Debug\BackgroundWorker_test2.exe
+C:\Users\Administrator\source\repos\BackgroundWorker_进度条\BackgroundWorker_进度条\obj\Debug\BackgroundWorker_test2.pdb
+C:\Users\Administrator\source\repos\BackgroundWorker_进度条\BackgroundWorker_进度条\obj\Debug\BackgroundWorker_进度条.csprojAssemblyReference.cache
