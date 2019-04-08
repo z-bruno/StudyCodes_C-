@@ -29,9 +29,12 @@ namespace BackgroundWorker_test2
             //bool类型，指示BackgroundWorker是否支持异步取消操作。当该属性值为True是，将可以成功调用CancelAsync方法
             bgWorker.WorkerSupportsCancellation = true;
 
-            bgWorker.DoWork += new DoWorkEventHandler(bgWorker_DoWork);  //用bgWorker_DoWork方法处理DoWork事件
-            bgWorker.ProgressChanged += new ProgressChangedEventHandler(bgWorker_ProgessChanged);
-            bgWorker.RunWorkerCompleted += new RunWorkerCompletedEventHandler(bgWorker_WorkerCompleted);
+            //bgWorker.DoWork += new DoWorkEventHandler(bgWorker_DoWork);  //用bgWorker_DoWork方法处理DoWork事件
+            //bgWorker.ProgressChanged += new ProgressChangedEventHandler(bgWorker_ProgessChanged);
+            //bgWorker.RunWorkerCompleted += new RunWorkerCompletedEventHandler(bgWorker_WorkerCompleted);
+            bgWorker.DoWork += bgWorker_DoWork;
+            bgWorker.ProgressChanged += bgWorker_ProgessChanged;
+            bgWorker.RunWorkerCompleted += bgWorker_WorkerCompleted;
 
         }
         //DoWork不能够操作用户界面的内容，如果需要更新用户界面，可以使用ProgressChanged事件及RunWorkCompleted事件来实现
