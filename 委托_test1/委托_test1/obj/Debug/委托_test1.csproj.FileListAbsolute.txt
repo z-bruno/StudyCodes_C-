@@ -8,3 +8,13 @@ C:\Users\Administrator\source\repos\委托_test1\委托_test1\obj\Debug\委托_t
 C:\Users\Administrator\source\repos\委托_test1\委托_test1\bin\Debug\Helper2.dll
 C:\Users\Administrator\source\repos\委托_test1\委托_test1\bin\Debug\Helper2.pdb
 C:\Users\Administrator\source\repos\委托_test1\委托_test1\obj\Debug\委托_test1.csproj.CopyComplete
+C:\Users\Administrator\source\repos\StudyCodes_C-\委托_test1\委托_test1\obj\Debug\委托_test1.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\StudyCodes_C-\委托_test1\委托_test1\obj\Debug\委托_test1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\StudyCodes_C-\委托_test1\委托_test1\obj\Debug\委托_test1.exe
+C:\Users\Administrator\source\repos\StudyCodes_C-\委托_test1\委托_test1\obj\Debug\委托_test1.pdb
+C:\Users\Administrator\source\repos\StudyCodes_C-\委托_test1\委托_test1\bin\Debug\委托_test1.exe.config
+C:\Users\Administrator\source\repos\StudyCodes_C-\委托_test1\委托_test1\bin\Debug\委托_test1.exe
+C:\Users\Administrator\source\repos\StudyCodes_C-\委托_test1\委托_test1\bin\Debug\委托_test1.pdb
+C:\Users\Administrator\source\repos\StudyCodes_C-\委托_test1\委托_test1\bin\Debug\Helper2.dll
+C:\Users\Administrator\source\repos\StudyCodes_C-\委托_test1\委托_test1\bin\Debug\Helper2.pdb
+C:\Users\Administrator\source\repos\StudyCodes_C-\委托_test1\委托_test1\obj\Debug\委托_test1.csproj.CopyComplete

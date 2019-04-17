@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\ImageCombinate\ImageCombinate\bin\Debug\ImageCombinate.exe.config
+C:\Users\Administrator\source\repos\ImageCombinate\ImageCombinate\bin\Debug\ImageCombinate.exe
+C:\Users\Administrator\source\repos\ImageCombinate\ImageCombinate\bin\Debug\ImageCombinate.pdb
+C:\Users\Administrator\source\repos\ImageCombinate\ImageCombinate\obj\Debug\ImageCombinate.Form1.resources
+C:\Users\Administrator\source\repos\ImageCombinate\ImageCombinate\obj\Debug\ImageCombinate.Properties.Resources.resources
+C:\Users\Administrator\source\repos\ImageCombinate\ImageCombinate\obj\Debug\ImageCombinate.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\ImageCombinate\ImageCombinate\obj\Debug\ImageCombinate.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ImageCombinate\ImageCombinate\obj\Debug\ImageCombinate.exe
+C:\Users\Administrator\source\repos\ImageCombinate\ImageCombinate\obj\Debug\ImageCombinate.pdb
+C:\Users\Administrator\source\repos\ImageCombinate\ImageCombinate\obj\Debug\ImageCombinate.csprojAssemblyReference.cache

@@ -14,6 +14,7 @@ namespace 委托_test1
         static event MyDelegate myEvent;
 
 
+
         static void Main(string[] args)
         {
 
@@ -22,8 +23,10 @@ namespace 委托_test1
 
             //交代事件
             //调用者无法访问委托对象
-            myEvent += new Helper().Add;  
+            myEvent += new Helper().Add;            
             int sum3 = myEvent(3, 4);
+
+
 
             //使用回调函数          
             int sum1 = MyAdd(7, 3, new Helper().Add);
@@ -31,6 +34,8 @@ namespace 委托_test1
             Console.ReadKey();
 
         }
+
+
         //回调函数
         //可传入任何符合这个委托的方法
         private static int MyAdd(int x, int y, MyDelegate myDele)
